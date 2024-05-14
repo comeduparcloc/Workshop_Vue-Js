@@ -48,7 +48,7 @@ Pour ce premier exercice, allez chercher l'objet "Color Picker" ou "Palette de c
 
 Résultat attendu :
 
-![vuetify](https://github.com/comeduparcloc/HUB-Workshop_vuejs/assets/114906835/ab8bfe07-74cc-492e-8c5c-ed5af8fa6e65)
+![img1](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/facaf685-1831-4aa9-9879-0a06e6502386)
 
 ### Exercice 3: Barre de Navigation
 
@@ -62,11 +62,11 @@ La route de base "/" correspond à la page donnant sur le color picker et la rou
 
 Résultat attendu :
 
-![vuetify](https://github.com/comeduparcloc/HUB-Workshop_vuejs/assets/114906835/b1f3d619-9d02-44ca-8fc2-1c2bd010f6b0)
+![img4](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/7ed24dbe-d6f7-43c6-b42e-090564e51ec5)
 
-![vuetify](https://github.com/comeduparcloc/HUB-Workshop_vuejs/assets/114906835/c3f19d9e-8394-4029-9bea-627625e577e0)
+![img3](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/2718995a-2ac6-4f26-abfb-d6678d0f3859)
 
-A noter que la baarre de navigation peut être un composant porpre à chaque page ou un composant général à implémenter dans le fichier App.vue pour qu'il soit présent sur toutes les pages
+A noter que la barre de navigation peut être un composant porpre à chaque page ou un composant général à implémenter dans le fichier App.vue pour qu'il soit présent sur toutes les pages
 
 ### Exercice 4: Créer un Sondage
 
@@ -78,8 +78,7 @@ Pour créer un sondage il est recommandé d'utiliser une class qui encadre votre
 
 N'oubliez pas d'implémenter le bouton de soumission du formulaire.
 
-![vuetify](https://github.com/comeduparcloc/HUB-Workshop_vuejs/assets/114914472/1001636b-6f5f-4cf7-b66a-0179d6833bf3)
-
+![img5](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/45855cc4-6b3a-44d2-a08e-475f09cc6507)
 
 ### Exercice 5: Relier à une Api
 
