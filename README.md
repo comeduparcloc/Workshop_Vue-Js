@@ -62,9 +62,9 @@ La route de base "/" correspond à la page donnant sur le color picker et la rou
 
 Résultat attendu :
 
-![img4](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/7ed24dbe-d6f7-43c6-b42e-090564e51ec5)
-
 ![img3](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/2718995a-2ac6-4f26-abfb-d6678d0f3859)
+
+![img4](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/7ed24dbe-d6f7-43c6-b42e-090564e51ec5)
 
 A noter que la barre de navigation peut être un composant porpre à chaque page ou un composant général à implémenter dans le fichier App.vue pour qu'il soit présent sur toutes les pages
 
