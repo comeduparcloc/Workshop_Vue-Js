@@ -86,6 +86,10 @@ Pour ce dernier exercice, nous allons voir comment faire pour utiliser une api s
 
 Sur ce site [ici](https://www.geeksforgeeks.org/free-apis-list/) vous avez une liste d'api. Prennez en une et utilisez ses fonctionnalitées sur votre site. Pour appeler l'api, cherchez "axios Vue.js" sur google.
 
+Par exemple, cette page utilise l'api de twilio qui permet d'appeler ou d'envoyer des messages à un numéro.
+
+![Api](https://github.com/comeduparcloc/Workshop_Vue-Js/assets/114906835/f7aba70e-0854-4c3a-8db3-ff9e6ac38023)
+
 ## Conclusion
 
 Félicitations ! Vous avez complété avec succès ce workshop d'initiation au développement d'un site web avec vuetify js. N'hésitez pas à explorer davantage les fonctionnalités de ce framework et à ajouter d'autre fonctionnalités sur votre site web. Amusez-vous bien !
